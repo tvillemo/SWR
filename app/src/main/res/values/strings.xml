@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <array name="rebel_option">
+        <item>Do smthing</item>
+        <item>Do another thing</item>
+    </array>
+    <array name="empire_option">
+        <item>Do smthing</item>
+        <item>Do another thing</item>
+    </array>
+</resources>
